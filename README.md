@@ -23,4 +23,4 @@ To ensure the analysis was "client-ready," I performed the following:
 ## 💡 Recommendations
 - **Pricing Strategy**: Increase margins on 'Tables' and 'Bookcases' through price adjustments or shipping cost reductions.
 - **Inventory Focus**: Prioritize stock and marketing for high-margin categories like **Technology** (16.7% avg margin).
-  ![Dashboard Screenshot](your-image-name.png)
+  ![Dashboard Screenshot](Dashboard.png)
